@@ -27,5 +27,6 @@ public class PrimeOrNot {
             System.out.println("not prime");
         }
 
+        System.out.println("checking pull request from other profile");
     }
 }
